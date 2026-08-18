@@ -3,7 +3,7 @@
     <title>Mitt hörn</title>
     <link href="https://diranoya.github.io/diranoja/feed.xml" rel="self" />
     <link href="https://diranoya.github.io/diranoja" />
-    <updated>2026-08-18T19:44:16+02:00</updated>
+    <updated>2026-08-18T21:03:53+02:00</updated>
     <author>
         <name>Johnny Jonsson</name>
     </author>
@@ -115,7 +115,12 @@
         <media:content url="https://diranoya.github.io/diranoja/media/posts/2/IMG_20241104_100922_HDR.jpg" medium="image" />
 
         <updated>2026-08-18T14:02:23+02:00</updated>
-            <summary></summary>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://diranoya.github.io/diranoja/media/posts/2/IMG_20241104_100922_HDR.jpg" alt="" />
+                    Frösön (Jämtland)
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://diranoya.github.io/diranoja/media/posts/2/IMG_20241104_100922_HDR.jpg" class="type:primaryImage" alt="" /></p>
@@ -123,6 +128,9 @@
 <figure class="gallery__item"><a href="https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG20260302182831.jpg" data-size="4096x3072"><img loading="lazy" src="https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG20260302182831-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
 <figure class="gallery__item"><a href="https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG_20241104_100922_HDR.jpg" data-size="2024x1515"><img loading="lazy" src="https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG_20241104_100922_HDR-thumbnail.jpg" alt="" width="720" height="539"></a></figure>
 <figure class="gallery__item"><a href="https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG20260109191513.jpg" data-size="4096x3072"><img loading="lazy" src="https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG20260109191513-thumbnail.jpg" alt="" width="720" height="540"></a></figure>
+<figure class="gallery__item"><a href="https://diranoya.github.io/diranoja/media/posts/2/gallery/3866-2.jpg" data-size="1600x900"><img loading="lazy" src="https://diranoya.github.io/diranoja/media/posts/2/gallery/3866-2-thumbnail.jpg" alt="" width="720" height="405"></a>
+<figcaption>Frösön (Jämtland)</figcaption>
+</figure>
 </div></div>
             ]]>
         </content>

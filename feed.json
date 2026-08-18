@@ -28,7 +28,8 @@
             "id": "https://diranoya.github.io/diranoja/diverse-bilder.html",
             "url": "https://diranoya.github.io/diranoja/diverse-bilder.html",
             "title": "Diverse Bilder",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG20260302182831.jpg\" data-size=\"4096x3072\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG20260302182831-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG_20241104_100922_HDR.jpg\" data-size=\"2024x1515\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG_20241104_100922_HDR-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"539\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG20260109191513.jpg\" data-size=\"4096x3072\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG20260109191513-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n</div></div>",
+            "summary": "Frösön (Jämtland)",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG20260302182831.jpg\" data-size=\"4096x3072\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG20260302182831-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG_20241104_100922_HDR.jpg\" data-size=\"2024x1515\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG_20241104_100922_HDR-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"539\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG20260109191513.jpg\" data-size=\"4096x3072\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG20260109191513-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/3866-2.jpg\" data-size=\"1600x900\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/3866-2-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"405\"></a>\n<figcaption>Frösön (Jämtland)</figcaption>\n</figure>\n</div></div>",
             "image": "https://diranoya.github.io/diranoja/media/posts/2/IMG_20241104_100922_HDR.jpg",
             "author": {
                 "name": "Johnny Jonsson"
@@ -36,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2026-08-18T14:02:23+02:00",
-            "date_modified": "2026-08-18T19:38:08+02:00"
+            "date_modified": "2026-08-18T21:03:53+02:00"
         },
         {
             "id": "https://diranoya.github.io/diranoja/mitt-hoern.html",
