@@ -1,0 +1,72 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mitt hörn",
+    "description": "",
+    "home_page_url": "https://diranoya.github.io/diranoja",
+    "feed_url": "https://diranoya.github.io/diranoja/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Johnny Jonsson"
+    },
+    "items": [
+        {
+            "id": "https://diranoya.github.io/diranoja/videos.html",
+            "url": "https://diranoya.github.io/diranoja/videos.html",
+            "title": "Videos",
+            "summary": "Valhalla Calling",
+            "content_html": "<p>Valhalla Calling</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AfTv1NTHDPY\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://diranoya.github.io/diranoja/media/posts/4/Copilot_20260818_121958.jpg",
+            "author": {
+                "name": "Johnny Jonsson"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-18T17:13:51+02:00",
+            "date_modified": "2026-08-18T17:21:36+02:00"
+        },
+        {
+            "id": "https://diranoya.github.io/diranoja/teknik.html",
+            "url": "https://diranoya.github.io/diranoja/teknik.html",
+            "title": "Teknik",
+            "summary": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250926_124731352.MV.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250926_124731352.MV-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Commode 64 \"brödburksmodell\"</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250927_072749023.MV.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250927_072749023.MV-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Lite dammigt, ser inte så farligt ut.</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_131906338.MV.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_131906338.MV-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Han ta bort lite innan bilden togs, skrämmande med skit efter ca 40år</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_155355615.MV.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_155355615.MV-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Nästan som ny!</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_234954003.MV.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_234954003.MV-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Tangenterna fick ett ljummet såpabad och bortade med en mjuk tandborste.</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250930_160824894.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250930_160824894-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Ser inte så farligt ut men hade ett tunt skikt av smuts på sig.</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250930_160931354.MV.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250930_160931354.MV-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Runt portarna syntes samma äckel som på tangentbordet.</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20251004_191133980.MV.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20251004_191133980.MV-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Rengjord med isopropanol.</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20251004_191159252.MV.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20251004_191159252.MV-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Måtte ramchippen fungera. 64KB totalt minne, det är mindre än vad bilden tar upp.</figcaption>\n</figure>\n</div></div>\n",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250926_124731352.MV.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250926_124731352.MV-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Commode 64 \"brödburksmodell\"</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250927_072749023.MV.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250927_072749023.MV-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Lite dammigt, ser inte så farligt ut.</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_131906338.MV.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_131906338.MV-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Han ta bort lite innan bilden togs, skrämmande med skit efter ca 40år</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_155355615.MV.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_155355615.MV-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Nästan som ny!</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_234954003.MV.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_234954003.MV-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Tangenterna fick ett ljummet såpabad och bortade med en mjuk tandborste.</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250930_160824894.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250930_160824894-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Ser inte så farligt ut men hade ett tunt skikt av smuts på sig.</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250930_160931354.MV.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250930_160931354.MV-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Runt portarna syntes samma äckel som på tangentbordet.</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20251004_191133980.MV.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20251004_191133980.MV-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Rengjord med isopropanol.</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20251004_191159252.MV.jpg\" data-size=\"3840x2160\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20251004_191159252.MV-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>Måtte ramchippen fungera. 64KB totalt minne, det är mindre än vad bilden tar upp.</figcaption>\n</figure>\n</div></div>\n\n<p>Efter att ha växt upp med en Commodore 64, en dator som jag haft så många minnen med. Jag minns min kusin Dennis spelade på den vid tillfälle när han besökte oss, men något annat jag minns än mer är hur pappa kunde sitta i timmar och knappa in spel från tidningen Compute! Gazette för att vi skulle få nya roliga spel att spela. Så när jag nu äntligen fick chansen att köpa en likadan dator igen, en C64 i brödburksmodell som de kallades, så slog jag till då det var exakt den modellen jag hade som ung. 40år av damm och annat äckel täckte datorn, men jag har rengjort den omsorgsfullt. Har ännu inte startat den då jag ska montera lite kylflänsar samt ett nytt friskt nätagg ska fixas så att datorn kan leva i ytterligare 40år.</p>\n<p> </p>\n<p> </p>",
+            "image": "https://diranoya.github.io/diranoja/media/posts/3/PXL_20250926_124731352.MV-3.jpg",
+            "author": {
+                "name": "Johnny Jonsson"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-18T14:18:14+02:00",
+            "date_modified": "2026-08-18T17:07:29+02:00"
+        },
+        {
+            "id": "https://diranoya.github.io/diranoja/diverse-bilder.html",
+            "url": "https://diranoya.github.io/diranoja/diverse-bilder.html",
+            "title": "Diverse Bilder",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG20260302182831.jpg\" data-size=\"4096x3072\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG20260302182831-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"540\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG_20241104_100922_HDR.jpg\" data-size=\"2024x1515\"><img loading=\"lazy\" src=\"https://diranoya.github.io/diranoja/media/posts/2/gallery/IMG_20241104_100922_HDR-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"539\"></a></figure>\n</div></div>",
+            "image": "https://diranoya.github.io/diranoja/media/posts/2/IMG_20241104_100922_HDR.jpg",
+            "author": {
+                "name": "Johnny Jonsson"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-18T14:02:23+02:00",
+            "date_modified": "2026-08-18T17:59:32+02:00"
+        },
+        {
+            "id": "https://diranoya.github.io/diranoja/mitt-hoern.html",
+            "url": "https://diranoya.github.io/diranoja/mitt-hoern.html",
+            "title": "Mitt hörn",
+            "summary": "Efter många många. . . många. . . år så gör jag ett försök till att skapa något som var så populär i&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://diranoya.github.io/diranoja/media/posts/1/.face\" alt=\"\" width=\"255\" height=\"255\"></figure>\n<p>Efter många många. . . många. . . år så gör jag ett försök till att skapa något som var så populär i slutet av 90-talet till början av 2000-talet, alltså en hemsida. Har äntligen hittat ett enkelt verktyg då min ork för att sitta och knappa html+css har sedan länge dött. Denna är gjort i Pubii som kan vara lite förvirrande till en början men är förvånadsvärt lätt när man väl kommer in i det.</p>",
+            "image": "https://diranoya.github.io/diranoja/media/posts/1/Copilot_20260818_121958.jpg",
+            "author": {
+                "name": "Johnny Jonsson"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-18T08:47:50+02:00",
+            "date_modified": "2026-08-18T17:08:07+02:00"
+        }
+    ]
+}
