@@ -3,12 +3,62 @@
     <title>Mitt hörn</title>
     <link href="https://diranoya.github.io/diranoja/feed.xml" rel="self" />
     <link href="https://diranoya.github.io/diranoja" />
-    <updated>2026-08-18T21:03:53+02:00</updated>
+    <updated>2026-08-20T09:09:17+02:00</updated>
     <author>
         <name>Johnny Jonsson</name>
     </author>
     <id>https://diranoya.github.io/diranoja</id>
 
+    <entry>
+        <title>XFCE Skript</title>
+        <author>
+            <name>Johnny Jonsson</name>
+        </author>
+        <link href="https://diranoya.github.io/diranoja/xfce-skript.html"/>
+        <id>https://diranoya.github.io/diranoja/xfce-skript.html</id>
+        <media:content url="https://diranoya.github.io/diranoja/media/posts/12/Xfce_logo.svg.webp" medium="image" />
+
+        <updated>2026-08-20T08:54:26+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://diranoya.github.io/diranoja/media/posts/12/Xfce_logo.svg.webp" alt="" />
+                    Jag tycker om när saker och ting fungerar mer så som jag&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://diranoya.github.io/diranoja/media/posts/12/Xfce_logo.svg.webp" class="type:primaryImage" alt="" /></p>
+                <p>Jag tycker om när saker och ting fungerar mer så som jag är van, och trots min något negativa inställning till ai-genererad kod så kan det i detta fall vara till hjälp då jag aldrig skulle klara att skapa dessa själv. Jag har använt ClaudeAI då den verkar mest kompetent när det kommer till denna typ av uppgifter.</p>
+<figure class="post__image"><strong>AUR -&gt; Appimage Builder</strong><br>Då en del program inte finns tillgängliga i DEB-format så är archimage ett utmärkt sätt att skapa en APPIMAGE från arch-linux AUR-förråd. Kommandot är enkelt men jag ville ha något mer likt de enklare programhanterarna. Detta skript så kan man söka i AUR efter paket och sedan bygga det. Ett sätt att nå mer programvara och nyare versioner av vissa program.<br><img loading="lazy"  src="https://diranoya.github.io/diranoja/media/posts/12//archimage.jpg" alt="" width="1226" height="627" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://diranoya.github.io/diranoja/media/posts/12//responsive/archimage-xs.jpg 300w ,https://diranoya.github.io/diranoja/media/posts/12//responsive/archimage-sm.jpg 480w ,https://diranoya.github.io/diranoja/media/posts/12//responsive/archimage-md.jpg 768w ,https://diranoya.github.io/diranoja/media/posts/12//responsive/archimage-lg.jpg 1024w"></figure>
+<hr>
+<figure class="post__image"><strong>XFCE Temahanterare</strong><br>I skrivbordsmiljön är själva temahanteringen lite klumpig. Fönsterdekorationer, ikoner, kontroller m.m. ligger alla lite utspridda. Jag ville ha något som mer i stil med KDE's temahanterare lät dig spara och ladda komplette set av inställningar, bara att aktivera med ett knapptryck. Detta skript tillåter det med enkelhet och fungerar mycket bra.<br><img loading="lazy"  src="https://diranoya.github.io/diranoja/media/posts/12/xfcethemes.jpg" alt="" width="1290" height="953" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://diranoya.github.io/diranoja/media/posts/12/responsive/xfcethemes-xs.jpg 300w ,https://diranoya.github.io/diranoja/media/posts/12/responsive/xfcethemes-sm.jpg 480w ,https://diranoya.github.io/diranoja/media/posts/12/responsive/xfcethemes-md.jpg 768w ,https://diranoya.github.io/diranoja/media/posts/12/responsive/xfcethemes-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Lycosidae</title>
+        <author>
+            <name>Johnny Jonsson</name>
+        </author>
+        <link href="https://diranoya.github.io/diranoja/lycosidae-2.html"/>
+        <id>https://diranoya.github.io/diranoja/lycosidae-2.html</id>
+        <media:content url="https://diranoya.github.io/diranoja/media/posts/11/lycosidaehero.jpg" medium="image" />
+            <category term="3dskrivare"/>
+
+        <updated>2026-08-19T18:59:10+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://diranoya.github.io/diranoja/media/posts/11/lycosidaehero.jpg" alt="" />
+                    För några år sedan påbörjade ett projekt att bygga en CoreXY-skrivare. Tyvärr&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://diranoya.github.io/diranoja/media/posts/11/lycosidaehero.jpg" class="type:primaryImage" alt="" /></p>
+                <p>För några år sedan påbörjade ett projekt att bygga en CoreXY-skrivare. Tyvärr stannade själva byggandet av, men planeringen har fortsatt. Eftersom min gamla skrivare är en Tevo Tarantula så spann jag vidare på att namnet skulle ha med spindlar att göra, så det blev Lycosidae vilket är Vargspindel.<br><br>Så varför bygga en egen skrivare? Köper man en färdig skrivare så är det i stort sett bara att packa upp och köra. Men den dag som tillverkaren väljer att släppa supporten för den skrivaren så kommer delar inte längre finnas för att fixa m.m. och programvaran kan helt sluta stödja skrivaren. Då har du en stor tung oanvändbar dekoration ståendes där. Dessutom om en del måste bytas så är det en exakt du måste hitta, och som jag nyss nämnde så kanske de inte finns längre och om det finns så brukar priserna vara löjligt höga.<br><br>En egenbyggd skrivare kräver mer arbete och justeringar, men det ger mig möjligheten att bygga ut den i det oändliga. Multifärg, Storlek och mycket mer går att ändra. Jag kan även om jag så vill, välja att ändra storleken nästan i det oändliga.<br><br>Jämför en färdig med en ny bil från fabrik och helbilsgodkännande, den fungerar förtillfället men du kan inte göra så mycket med den. Sen har vi egna skrivare som t.ex. Voron m.fl. vilka är lite mer som "hotrods", bygg de som du vill och utöka funktionaliteten i nästan det oändliga. <br><br>Men även om man bygger egen så blir det ändå inte billigt, och det är väl lite där jag fastnade för några år sedan. Sedan har jag inte riktigt kommit igång igen, men ska ta tag i det när några fler delar kan köpas in.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Min Commodore 64</title>
         <author>
@@ -16,53 +66,20 @@
         </author>
         <link href="https://diranoya.github.io/diranoja/teknik.html"/>
         <id>https://diranoya.github.io/diranoja/teknik.html</id>
-        <media:content url="https://diranoya.github.io/diranoja/media/posts/3/rKNzh.jpg" medium="image" />
+        <media:content url="https://diranoya.github.io/diranoja/media/posts/3/background2-c64.png" medium="image" />
+            <category term="Teknik"/>
+            <category term="Retro"/>
 
         <updated>2026-08-18T14:18:14+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://diranoya.github.io/diranoja/media/posts/3/rKNzh.jpg" alt="" />
-                    <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250926_124731352.MV.jpg" data-size="3840x2160"><img loading="lazy" src="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250926_124731352.MV-thumbnail.jpg" alt="" width="768" height="432"></a>
-<figcaption>Commode 64 "brödburksmodell"</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250927_072749023.MV.jpg" data-size="3840x2160"><img loading="lazy" src="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250927_072749023.MV-thumbnail.jpg" alt="" width="768" height="432"></a>
-<figcaption>Lite dammigt, ser inte så farligt ut.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_131906338.MV.jpg" data-size="3840x2160"><img loading="lazy" src="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_131906338.MV-thumbnail.jpg" alt="" width="768" height="432"></a>
-<figcaption>Han ta bort lite innan bilden togs, skrämmande med skit efter ca 40år</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_155355615.MV.jpg" data-size="3840x2160"><img loading="lazy" src="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_155355615.MV-thumbnail.jpg" alt="" width="768" height="432"></a>
-<figcaption>Nästan som ny!</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250927_085731044.MV.jpg" data-size="1280x720"><img loading="lazy" src="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250927_085731044.MV-thumbnail.jpg" alt="" width="720" height="405"></a>
-<figcaption>Myyyys. (inte)</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_234954003.MV.jpg" data-size="3840x2160"><img loading="lazy" src="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250929_234954003.MV-thumbnail.jpg" alt="" width="768" height="432"></a>
-<figcaption>Tangenterna fick ett ljummet såpabad och bortade med en mjuk tandborste.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250930_160824894.jpg" data-size="3840x2160"><img loading="lazy" src="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250930_160824894-thumbnail.jpg" alt="" width="768" height="432"></a>
-<figcaption>Ser inte så farligt ut men hade ett tunt skikt av smuts på sig.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250930_160931354.MV.jpg" data-size="3840x2160"><img loading="lazy" src="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250930_160931354.MV-thumbnail.jpg" alt="" width="768" height="432"></a>
-<figcaption>Runt portarna syntes samma äckel som på tangentbordet.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20251004_191133980.MV.jpg" data-size="3840x2160"><img loading="lazy" src="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20251004_191133980.MV-thumbnail.jpg" alt="" width="768" height="432"></a>
-<figcaption>Rengjord med isopropanol.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20251004_191159252.MV.jpg" data-size="3840x2160"><img loading="lazy" src="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20251004_191159252.MV-thumbnail.jpg" alt="" width="768" height="432"></a>
-<figcaption>Måtte ramchippen fungera. 64KB totalt minne, det är mindre än vad bilden tar upp.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://diranoya.github.io/diranoja/media/posts/3/gallery/IMG20260108144904.jpg" data-size="1600x1200"><img loading="lazy" src="https://diranoya.github.io/diranoja/media/posts/3/gallery/IMG20260108144904-thumbnail.jpg" alt="" width="720" height="540"></a>
-<figcaption>I tryggt torrt förvar</figcaption>
-</figure>
-</div></div>
-
+                        <img src="https://diranoya.github.io/diranoja/media/posts/3/background2-c64.png" alt="" />
+                    Commode 64 "brödburksmodell" Lite dammigt, ser inte så farligt ut. Han ta&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://diranoya.github.io/diranoja/media/posts/3/rKNzh.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://diranoya.github.io/diranoja/media/posts/3/background2-c64.png" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250926_124731352.MV.jpg" data-size="3840x2160"><img loading="lazy" src="https://diranoya.github.io/diranoja/media/posts/3/gallery/PXL_20250926_124731352.MV-thumbnail.jpg" alt="" width="768" height="432"></a>
 <figcaption>Commode 64 "brödburksmodell"</figcaption>
@@ -98,8 +115,8 @@
 <figcaption>I tryggt torrt förvar</figcaption>
 </figure>
 </div></div>
-
-<p>Efter att ha växt upp med en Commodore 64, en dator som jag haft så många minnen med. Jag minns min kusin Dennis spelade på den vid tillfälle när han besökte oss, men något annat jag minns än mer är hur pappa kunde sitta i timmar och knappa in spel från tidningen Compute! Gazette för att vi skulle få nya roliga spel att spela. Så när jag nu äntligen fick chansen att köpa en likadan dator igen, en C64 i brödburksmodell som de kallades, så slog jag till då det var exakt den modellen jag hade som ung. 40år av damm och annat äckel täckte datorn, men jag har rengjort den omsorgsfullt. Har ännu inte startat den då jag ska montera lite kylflänsar samt ett nytt friskt nätagg ska fixas så att datorn kan leva i ytterligare 40år.</p>
+<figure class="post__image post__image--right"><img  src="https://diranoya.github.io/diranoja/media/posts/3/nightdriver-3.jpg" alt="" width="348" height="265" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://diranoya.github.io/diranoja/media/posts/3/responsive/nightdriver-3-xs.jpg 300w ,https://diranoya.github.io/diranoja/media/posts/3/responsive/nightdriver-3-sm.jpg 480w ,https://diranoya.github.io/diranoja/media/posts/3/responsive/nightdriver-3-md.jpg 768w ,https://diranoya.github.io/diranoja/media/posts/3/responsive/nightdriver-3-lg.jpg 1024w"></figure><br>Jag kommer inte ihåg när pappa skaffade vår Commodore 64 när jag var ung, men det var nog inte långt efter att den släpptes då jag vet att vi hade den på 80-talet. Kan t.o.m. med säkerhet säga att det var före 1986. Som barn var jag inte så jätteintresserad i den, men allteftersom jag blev äldre så växte intresset mer och mer.<br>Jag minns min kusin Dennis spelade på den vid tillfälle när han besökte oss tillsammans med min äldre syster och hennes kompisar, och jag minns t.o.m. att de spelade spelet Night Driver.<figure class="post__image post__image--left"><img loading="lazy"  src="https://diranoya.github.io/diranoja/media/posts/3/compute.jpg" alt="" width="300" height="410" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://diranoya.github.io/diranoja/media/posts/3/responsive/compute-xs.jpg 300w ,https://diranoya.github.io/diranoja/media/posts/3/responsive/compute-sm.jpg 480w ,https://diranoya.github.io/diranoja/media/posts/3/responsive/compute-md.jpg 768w ,https://diranoya.github.io/diranoja/media/posts/3/responsive/compute-lg.jpg 1024w"></figure><br><br>Men något annat jag minns ännu mer är hur pappa kunde sitta i timmar och knappa in spel från tidningen Compute! Gazette för att vi skulle få nya roliga spel att spela. Jag tror att det är detta som gör att jag nu mer än någonsin minns denna datormodell med sådan värme. Så när jag nu äntligen fick chansen att köpa en likadan dator igen, en C64 "brödburksmodell som de kallades), så slog jag till då det var exakt den modellen jag hade som ung. 40år av damm och annat äckel täckte datorn, men jag har rengjort den omsorgsfullt. Första gången jag höll i den, och trots att det inte var samma maskin så var det ändå samma modell. Jag kände hur barndomen kom rusande tillbaka och hur jag blev glad av att bara hålla i den.</p>
+<p>Har ännu inte startat den då jag ska montera lite kylflänsar samt ett nytt friskt nätagg ska fixas så att datorn kan leva i ytterligare 40år. En uppdatering här kommer när jag väl startat den första gången.</p>
 <p> </p>
 <p> </p>
             ]]>
@@ -148,13 +165,13 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://diranoya.github.io/diranoja/media/posts/1/Copilot_20260818_121958.jpg" alt="" />
-                    Efter många många. . . många. . . år så gör jag ett försök till att skapa något som var så populär i&hellip;
+                    Efter många många. . . många. . . år så gör jag&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://diranoya.github.io/diranoja/media/posts/1/Copilot_20260818_121958.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image align-right"><img loading="lazy"  src="https://diranoya.github.io/diranoja/media/posts/1/o2bWC.jpg" alt="" width="280" height="349" sizes="(max-width: 48em) 100vw, 768px" srcset="https://diranoya.github.io/diranoja/media/posts/1/responsive/o2bWC-xs.jpg 300w ,https://diranoya.github.io/diranoja/media/posts/1/responsive/o2bWC-sm.jpg 480w ,https://diranoya.github.io/diranoja/media/posts/1/responsive/o2bWC-md.jpg 768w ,https://diranoya.github.io/diranoja/media/posts/1/responsive/o2bWC-lg.jpg 1024w ,https://diranoya.github.io/diranoja/media/posts/1/responsive/o2bWC-xl.jpg 1360w ,https://diranoya.github.io/diranoja/media/posts/1/responsive/o2bWC-2xl.jpg 1600w"></figure>
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://diranoya.github.io/diranoja/media/posts/1/o2bWC.jpg" alt="" width="280" height="349" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://diranoya.github.io/diranoja/media/posts/1/responsive/o2bWC-xs.jpg 300w ,https://diranoya.github.io/diranoja/media/posts/1/responsive/o2bWC-sm.jpg 480w ,https://diranoya.github.io/diranoja/media/posts/1/responsive/o2bWC-md.jpg 768w ,https://diranoya.github.io/diranoja/media/posts/1/responsive/o2bWC-lg.jpg 1024w"></figure>
 <p class="align-left">Efter många många. . . många. . . år så gör jag ett försök till att skapa något som var så populär i slutet av 90-talet till början av 2000-talet, alltså en hemsida. Har äntligen hittat ett enkelt verktyg då min ork för att sitta och knappa html+css har sedan länge dött. Denna är gjort i Pubii som kan vara lite förvirrande till en början men är förvånadsvärt lätt när man väl kommer in i det.</p>
             ]]>
         </content>
